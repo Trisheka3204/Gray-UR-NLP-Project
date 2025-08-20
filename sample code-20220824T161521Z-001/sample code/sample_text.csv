@@ -1,0 +1,27 @@
+column_label,doc_id,text
+sample1.docx,sample1.docx,"This is just a sample document for loading into R. 
+This is the first of eight.
+Nothing fancy to see here."
+sample2.docx,sample2.docx,"This is just a sample document for loading into R. 
+This is the second of eight.
+Still nothing fancy to see here."
+sample3.docx,sample3.docx,"This is just a sample document for loading into R. 
+This is the third of eight.
+Still still nothing fancy to see here."
+sample4.docx,sample4.docx,"This is just a sample document for loading into R. 
+This is the fourth of eight.
+Anything fancy here?
+Nope."
+sample5.docx,sample5.docx,"This is just a sample document for loading into R. 
+This is the fifth of eight.
+Possible fanciness?
+Not yet."
+sample6.docx,sample6.docx,"This is just a sample document for loading into R. 
+This is the sixth of eight.
+Fanciness status: unlikely."
+sample7.docx,sample7.docx,"This is just a sample document for loading into R. 
+This is the seventh of eight.
+To fancy or not to fancy. That is the question."
+sample8.docx,sample8.docx,"This is just a sample document for loading into R. 
+This is the eighth of eight.
+Fancy 😊"

@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="22.02.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="10" family="GYCDUG+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="10" family="GYCDUG+Arial,Bold" color="#ffffff"/>
+	<fontspec id="2" size="10" family="OPRHOF+Arial" color="#000000"/>
+	<fontspec id="3" size="9" family="OPRHOF+Arial" color="#000000"/>
+	<fontspec id="4" size="7" family="GYCDUG+Arial,Bold" color="#000000"/>
+	<fontspec id="5" size="7" family="OPRHOF+Arial" color="#000000"/>
+	<fontspec id="6" size="9" family="GYCDUG+Arial,Bold" color="#333333"/>
+	<fontspec id="7" size="9" family="OPRHOF+Arial" color="#333333"/>
+	<fontspec id="8" size="13" family="YTQXQT+Calibri,Bold" color="#333333"/>
+	<fontspec id="9" size="13" family="QNSVQU+Calibri" color="#696969"/>
+	<fontspec id="10" size="16" family="QNSVQU+Calibri" color="#696969"/>
+	<fontspec id="11" size="16" family="YTQXQT+Calibri,Bold" color="#333333"/>
+	<fontspec id="12" size="19" family="YTQXQT+Calibri,Bold" color="#333333"/>
+<text top="221" left="60" width="494" height="12" font="0"><b>1 - Please indicate the extent to which you agree or disagree with each of the following statements:</b></text>
+<text top="242" left="60" width="189" height="12" font="0"><b>1A - The instructor was well prepared.</b></text>
+<text top="263" left="60" width="55" height="12" font="0"><b>David Gray</b></text>
+<text top="284" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="284" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="284" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="284" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="284" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="303" left="60" width="82" height="12" font="2">Strongly disagree</text>
+<text top="303" left="291" width="13" height="12" font="2">(1)</text>
+<text top="303" left="349" width="6" height="12" font="2">0</text>
+<text top="303" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="321" left="60" width="42" height="12" font="2">Disagree</text>
+<text top="321" left="291" width="13" height="12" font="2">(2)</text>
+<text top="321" left="349" width="6" height="12" font="2">0</text>
+<text top="321" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="339" left="60" width="93" height="12" font="2">Somewhat disagree</text>
+<text top="339" left="291" width="13" height="12" font="2">(3)</text>
+<text top="339" left="349" width="6" height="12" font="2">0</text>
+<text top="339" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="358" left="60" width="79" height="12" font="2">Somewhat agree</text>
+<text top="358" left="291" width="13" height="12" font="2">(4)</text>
+<text top="358" left="349" width="6" height="12" font="2">0</text>
+<text top="358" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="376" left="60" width="28" height="12" font="2">Agree</text>
+<text top="376" left="291" width="13" height="12" font="2">(5)</text>
+<text top="376" left="346" width="12" height="12" font="2">15</text>
+<text top="376" left="398" width="36" height="12" font="2">24.19%</text>
+<text top="394" left="60" width="68" height="12" font="2">Strongly agree</text>
+<text top="394" left="291" width="13" height="12" font="2">(6)</text>
+<text top="394" left="346" width="12" height="12" font="2">47</text>
+<text top="394" left="398" width="36" height="12" font="2">75.81%</text>
+<text top="304" left="588" width="18" height="10" font="3">5.76</text>
+<text top="306" left="664" width="18" height="10" font="3">5.25</text>
+<text top="304" left="739" width="18" height="10" font="3">5.37</text>
+<text top="411" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="411" left="584" width="30" height="8" font="5">Question</text>
+<text top="411" left="662" width="25" height="8" font="5">College</text>
+<text top="411" left="731" width="39" height="8" font="5">Department</text>
+<text top="424" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="424" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="424" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="424" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="424" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="424" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="424" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="424" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="424" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="424" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="424" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="424" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="439" left="95" width="62" height="10" font="7">62/73 (84.93%)</text>
+<text top="439" left="214" width="18" height="10" font="3">5.76</text>
+<text top="439" left="266" width="18" height="10" font="7">0.43</text>
+<text top="439" left="319" width="18" height="10" font="7">6.00</text>
+<text top="439" left="394" width="25" height="10" font="7">22817</text>
+<text top="439" left="476" width="18" height="10" font="7">5.25</text>
+<text top="439" left="528" width="18" height="10" font="7">1.04</text>
+<text top="439" left="578" width="18" height="10" font="7">6.00</text>
+<text top="439" left="653" width="20" height="10" font="7">2407</text>
+<text top="439" left="731" width="18" height="10" font="7">5.37</text>
+<text top="439" left="781" width="18" height="10" font="7">0.91</text>
+<text top="439" left="830" width="18" height="10" font="7">6.00</text>
+<text top="475" left="60" width="494" height="12" font="0"><b>1 - Please indicate the extent to which you agree or disagree with each of the following statements:</b></text>
+<text top="496" left="60" width="279" height="12" font="0"><b>1B - The instructor presented the subject matter clearly.</b></text>
+<text top="517" left="60" width="55" height="12" font="0"><b>David Gray</b></text>
+<text top="538" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="538" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="538" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="538" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="538" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="558" left="60" width="82" height="12" font="2">Strongly disagree</text>
+<text top="558" left="291" width="13" height="12" font="2">(1)</text>
+<text top="558" left="349" width="6" height="12" font="2">0</text>
+<text top="558" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="576" left="60" width="42" height="12" font="2">Disagree</text>
+<text top="576" left="291" width="13" height="12" font="2">(2)</text>
+<text top="576" left="349" width="6" height="12" font="2">0</text>
+<text top="576" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="594" left="60" width="93" height="12" font="2">Somewhat disagree</text>
+<text top="594" left="291" width="13" height="12" font="2">(3)</text>
+<text top="594" left="349" width="6" height="12" font="2">2</text>
+<text top="594" left="401" width="30" height="12" font="2">3.23%</text>
+<text top="612" left="60" width="79" height="12" font="2">Somewhat agree</text>
+<text top="612" left="291" width="13" height="12" font="2">(4)</text>
+<text top="612" left="349" width="6" height="12" font="2">6</text>
+<text top="612" left="401" width="30" height="12" font="2">9.68%</text>
+<text top="630" left="60" width="28" height="12" font="2">Agree</text>
+<text top="630" left="291" width="13" height="12" font="2">(5)</text>
+<text top="630" left="346" width="12" height="12" font="2">16</text>
+<text top="630" left="398" width="36" height="12" font="2">25.81%</text>
+<text top="648" left="60" width="68" height="12" font="2">Strongly agree</text>
+<text top="648" left="291" width="13" height="12" font="2">(6)</text>
+<text top="648" left="346" width="12" height="12" font="2">38</text>
+<text top="648" left="398" width="36" height="12" font="2">61.29%</text>
+<text top="558" left="588" width="18" height="10" font="3">5.45</text>
+<text top="564" left="664" width="18" height="10" font="3">5.02</text>
+<text top="562" left="739" width="18" height="10" font="3">5.19</text>
+<text top="665" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="665" left="584" width="30" height="8" font="5">Question</text>
+<text top="665" left="662" width="25" height="8" font="5">College</text>
+<text top="665" left="731" width="39" height="8" font="5">Department</text>
+<text top="678" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="678" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="678" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="678" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="678" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="678" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="678" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="678" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="678" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="678" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="678" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="678" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="693" left="95" width="62" height="10" font="7">62/73 (84.93%)</text>
+<text top="693" left="214" width="18" height="10" font="3">5.45</text>
+<text top="693" left="266" width="18" height="10" font="7">0.80</text>
+<text top="693" left="319" width="18" height="10" font="7">6.00</text>
+<text top="693" left="394" width="25" height="10" font="7">22683</text>
+<text top="693" left="476" width="18" height="10" font="7">5.02</text>
+<text top="693" left="528" width="18" height="10" font="7">1.22</text>
+<text top="693" left="578" width="18" height="10" font="7">5.00</text>
+<text top="693" left="653" width="20" height="10" font="7">2395</text>
+<text top="693" left="731" width="18" height="10" font="7">5.19</text>
+<text top="693" left="781" width="18" height="10" font="7">1.06</text>
+<text top="693" left="830" width="18" height="10" font="7">5.00</text>
+<text top="729" left="60" width="494" height="12" font="0"><b>1 - Please indicate the extent to which you agree or disagree with each of the following statements:</b></text>
+<text top="750" left="60" width="417" height="12" font="0"><b>1C - The instructor provided feedback intended to improve my course performance.</b></text>
+<text top="771" left="60" width="55" height="12" font="0"><b>David Gray</b></text>
+<text top="792" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="792" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="792" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="792" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="792" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="812" left="60" width="82" height="12" font="2">Strongly disagree</text>
+<text top="812" left="291" width="13" height="12" font="2">(1)</text>
+<text top="812" left="349" width="6" height="12" font="2">0</text>
+<text top="812" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="830" left="60" width="42" height="12" font="2">Disagree</text>
+<text top="830" left="291" width="13" height="12" font="2">(2)</text>
+<text top="830" left="349" width="6" height="12" font="2">1</text>
+<text top="830" left="401" width="30" height="12" font="2">1.61%</text>
+<text top="848" left="60" width="93" height="12" font="2">Somewhat disagree</text>
+<text top="848" left="291" width="13" height="12" font="2">(3)</text>
+<text top="848" left="349" width="6" height="12" font="2">1</text>
+<text top="848" left="401" width="30" height="12" font="2">1.61%</text>
+<text top="866" left="60" width="79" height="12" font="2">Somewhat agree</text>
+<text top="866" left="291" width="13" height="12" font="2">(4)</text>
+<text top="866" left="349" width="6" height="12" font="2">4</text>
+<text top="866" left="401" width="30" height="12" font="2">6.45%</text>
+<text top="884" left="60" width="28" height="12" font="2">Agree</text>
+<text top="884" left="291" width="13" height="12" font="2">(5)</text>
+<text top="884" left="346" width="12" height="12" font="2">17</text>
+<text top="884" left="398" width="36" height="12" font="2">27.42%</text>
+<text top="902" left="60" width="68" height="12" font="2">Strongly agree</text>
+<text top="902" left="291" width="13" height="12" font="2">(6)</text>
+<text top="902" left="346" width="12" height="12" font="2">39</text>
+<text top="902" left="398" width="36" height="12" font="2">62.90%</text>
+<text top="812" left="588" width="18" height="10" font="3">5.48</text>
+<text top="819" left="664" width="18" height="10" font="3">4.98</text>
+<text top="815" left="739" width="18" height="10" font="3">5.23</text>
+<text top="919" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="919" left="584" width="30" height="8" font="5">Question</text>
+<text top="919" left="662" width="25" height="8" font="5">College</text>
+<text top="919" left="731" width="39" height="8" font="5">Department</text>
+<text top="933" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="933" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="933" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="933" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="933" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="933" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="933" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="933" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="933" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="933" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="933" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="933" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="947" left="95" width="62" height="10" font="7">62/73 (84.93%)</text>
+<text top="947" left="214" width="18" height="10" font="3">5.48</text>
+<text top="947" left="266" width="18" height="10" font="7">0.82</text>
+<text top="947" left="319" width="18" height="10" font="7">6.00</text>
+<text top="947" left="394" width="25" height="10" font="7">22676</text>
+<text top="947" left="476" width="18" height="10" font="7">4.98</text>
+<text top="947" left="528" width="18" height="10" font="7">1.24</text>
+<text top="947" left="578" width="18" height="10" font="7">5.00</text>
+<text top="947" left="653" width="20" height="10" font="7">2393</text>
+<text top="947" left="731" width="18" height="10" font="7">5.23</text>
+<text top="947" left="781" width="18" height="10" font="7">1.02</text>
+<text top="947" left="830" width="18" height="10" font="7">6.00</text>
+<text top="124" left="60" width="59" height="14" font="8"><b>Instructor:</b></text>
+<text top="124" left="162" width="73" height="14" font="9">David Gray * </text>
+<text top="100" left="162" width="626" height="17" font="10">ENGE_1215_83949_201909: (83949) Founda ons of Engineering-ENGE_1215_83949_201909</text>
+<text top="100" left="60" width="52" height="17" font="11"><b>Course:</b></text>
+<text top="51" left="60" width="422" height="20" font="12"><b>Fall 2019 VT Student Percep ons of Teaching (SPOT)</b></text>
+<text top="27" left="60" width="105" height="20" font="12"><b>Virginia Tech</b></text>
+<text top="147" left="162" width="87" height="14" font="9">65/73 (89.04 %)</text>
+<text top="147" left="60" width="86" height="14" font="8"><b>Response Rate:</b></text>
+<text top="1163" left="813" width="51" height="10" font="3">Page 1 of 10</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="221" left="60" width="494" height="12" font="0"><b>1 - Please indicate the extent to which you agree or disagree with each of the following statements:</b></text>
+<text top="242" left="60" width="308" height="12" font="0"><b>1D - The instructor fostered an atmosphere of mutual respect.</b></text>
+<text top="263" left="60" width="55" height="12" font="0"><b>David Gray</b></text>
+<text top="284" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="284" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="284" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="284" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="284" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="303" left="60" width="82" height="12" font="2">Strongly disagree</text>
+<text top="303" left="291" width="13" height="12" font="2">(1)</text>
+<text top="303" left="349" width="6" height="12" font="2">0</text>
+<text top="303" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="321" left="60" width="42" height="12" font="2">Disagree</text>
+<text top="321" left="291" width="13" height="12" font="2">(2)</text>
+<text top="321" left="349" width="6" height="12" font="2">0</text>
+<text top="321" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="339" left="60" width="93" height="12" font="2">Somewhat disagree</text>
+<text top="339" left="291" width="13" height="12" font="2">(3)</text>
+<text top="339" left="349" width="6" height="12" font="2">0</text>
+<text top="339" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="358" left="60" width="79" height="12" font="2">Somewhat agree</text>
+<text top="358" left="291" width="13" height="12" font="2">(4)</text>
+<text top="358" left="349" width="6" height="12" font="2">0</text>
+<text top="358" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="376" left="60" width="28" height="12" font="2">Agree</text>
+<text top="376" left="291" width="13" height="12" font="2">(5)</text>
+<text top="376" left="346" width="12" height="12" font="2">10</text>
+<text top="376" left="398" width="36" height="12" font="2">16.39%</text>
+<text top="394" left="60" width="68" height="12" font="2">Strongly agree</text>
+<text top="394" left="291" width="13" height="12" font="2">(6)</text>
+<text top="394" left="346" width="12" height="12" font="2">51</text>
+<text top="394" left="398" width="36" height="12" font="2">83.61%</text>
+<text top="304" left="588" width="18" height="10" font="3">5.84</text>
+<text top="305" left="664" width="18" height="10" font="3">5.33</text>
+<text top="304" left="739" width="18" height="10" font="3">5.51</text>
+<text top="411" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="411" left="584" width="30" height="8" font="5">Question</text>
+<text top="411" left="662" width="25" height="8" font="5">College</text>
+<text top="411" left="731" width="39" height="8" font="5">Department</text>
+<text top="424" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="424" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="424" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="424" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="424" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="424" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="424" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="424" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="424" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="424" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="424" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="424" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="439" left="95" width="62" height="10" font="7">61/73 (83.56%)</text>
+<text top="439" left="214" width="18" height="10" font="3">5.84</text>
+<text top="439" left="266" width="18" height="10" font="7">0.37</text>
+<text top="439" left="319" width="18" height="10" font="7">6.00</text>
+<text top="439" left="394" width="25" height="10" font="7">22657</text>
+<text top="439" left="476" width="18" height="10" font="7">5.33</text>
+<text top="439" left="528" width="18" height="10" font="7">1.05</text>
+<text top="439" left="578" width="18" height="10" font="7">6.00</text>
+<text top="439" left="653" width="20" height="10" font="7">2393</text>
+<text top="439" left="731" width="18" height="10" font="7">5.51</text>
+<text top="439" left="781" width="18" height="10" font="7">0.84</text>
+<text top="439" left="830" width="18" height="10" font="7">6.00</text>
+<text top="475" left="60" width="494" height="12" font="0"><b>1 - Please indicate the extent to which you agree or disagree with each of the following statements:</b></text>
+<text top="496" left="60" width="257" height="12" font="0"><b>1E - Overall, the instructor's teaching was effective.</b></text>
+<text top="517" left="60" width="55" height="12" font="0"><b>David Gray</b></text>
+<text top="538" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="538" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="538" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="538" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="538" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="558" left="60" width="82" height="12" font="2">Strongly disagree</text>
+<text top="558" left="291" width="13" height="12" font="2">(1)</text>
+<text top="558" left="349" width="6" height="12" font="2">0</text>
+<text top="558" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="576" left="60" width="42" height="12" font="2">Disagree</text>
+<text top="576" left="291" width="13" height="12" font="2">(2)</text>
+<text top="576" left="349" width="6" height="12" font="2">0</text>
+<text top="576" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="594" left="60" width="93" height="12" font="2">Somewhat disagree</text>
+<text top="594" left="291" width="13" height="12" font="2">(3)</text>
+<text top="594" left="349" width="6" height="12" font="2">0</text>
+<text top="594" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="612" left="60" width="79" height="12" font="2">Somewhat agree</text>
+<text top="612" left="291" width="13" height="12" font="2">(4)</text>
+<text top="612" left="349" width="6" height="12" font="2">4</text>
+<text top="612" left="401" width="30" height="12" font="2">6.56%</text>
+<text top="630" left="60" width="28" height="12" font="2">Agree</text>
+<text top="630" left="291" width="13" height="12" font="2">(5)</text>
+<text top="630" left="346" width="12" height="12" font="2">20</text>
+<text top="630" left="398" width="36" height="12" font="2">32.79%</text>
+<text top="648" left="60" width="68" height="12" font="2">Strongly agree</text>
+<text top="648" left="291" width="13" height="12" font="2">(6)</text>
+<text top="648" left="346" width="12" height="12" font="2">37</text>
+<text top="648" left="398" width="36" height="12" font="2">60.66%</text>
+<text top="558" left="588" width="18" height="10" font="3">5.54</text>
+<text top="565" left="664" width="18" height="10" font="3">5.00</text>
+<text top="562" left="739" width="18" height="10" font="3">5.17</text>
+<text top="665" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="665" left="584" width="30" height="8" font="5">Question</text>
+<text top="665" left="662" width="25" height="8" font="5">College</text>
+<text top="665" left="731" width="39" height="8" font="5">Department</text>
+<text top="678" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="678" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="678" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="678" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="678" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="678" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="678" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="678" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="678" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="678" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="678" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="678" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="693" left="95" width="62" height="10" font="7">61/73 (83.56%)</text>
+<text top="693" left="214" width="18" height="10" font="3">5.54</text>
+<text top="693" left="266" width="18" height="10" font="7">0.62</text>
+<text top="693" left="319" width="18" height="10" font="7">6.00</text>
+<text top="693" left="394" width="25" height="10" font="7">22544</text>
+<text top="693" left="476" width="18" height="10" font="7">5.00</text>
+<text top="693" left="528" width="18" height="10" font="7">1.25</text>
+<text top="693" left="578" width="18" height="10" font="7">5.00</text>
+<text top="693" left="653" width="20" height="10" font="7">2372</text>
+<text top="693" left="731" width="18" height="10" font="7">5.17</text>
+<text top="693" left="781" width="18" height="10" font="7">1.11</text>
+<text top="693" left="830" width="18" height="10" font="7">6.00</text>
+<text top="124" left="60" width="59" height="14" font="8"><b>Instructor:</b></text>
+<text top="124" left="162" width="73" height="14" font="9">David Gray * </text>
+<text top="100" left="162" width="626" height="17" font="10">ENGE_1215_83949_201909: (83949) Founda ons of Engineering-ENGE_1215_83949_201909</text>
+<text top="100" left="60" width="52" height="17" font="11"><b>Course:</b></text>
+<text top="51" left="60" width="422" height="20" font="12"><b>Fall 2019 VT Student Percep ons of Teaching (SPOT)</b></text>
+<text top="27" left="60" width="105" height="20" font="12"><b>Virginia Tech</b></text>
+<text top="147" left="162" width="87" height="14" font="9">65/73 (89.04 %)</text>
+<text top="147" left="60" width="86" height="14" font="8"><b>Response Rate:</b></text>
+<text top="1163" left="813" width="51" height="10" font="3">Page 2 of 10</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="9" family="GYCDUG+Arial,Bold" color="#000000"/>
+<text top="221" left="60" width="343" height="12" font="0"><b>2 - 2A - What did the instructor do that most helped in your learning?</b></text>
+<text top="242" left="60" width="55" height="12" font="0"><b>David Gray</b></text>
+<text top="260" left="118" width="65" height="10" font="13"><b>Response Rate</b></text>
+<text top="260" left="252" width="57" height="10" font="3">53/73 (72.6%)</text>
+<text top="280" left="65" width="787" height="10" font="3">• My instructor was able to connect with the class and foster a sense of understanding and respect. He made us feel like he understood what we were going through and the difficulties of our first</text>
+<text top="291" left="65" width="665" height="10" font="3">semester as an engineering student. Because of this, I think that we all respected him and the material taught in his class greatly, and were able to learn a lot from him.</text>
+<text top="308" left="65" width="275" height="10" font="3">• He was very interactive which made it much easier to pay attention.</text>
+<text top="325" left="65" width="451" height="10" font="3">• The teacher made every class enjoyable by providing a great learning environment and kept the class engaged.</text>
+<text top="343" left="65" width="264" height="10" font="3">• Lectures were engaging, and he was able to keep the mood light</text>
+<text top="360" left="65" width="363" height="10" font="3">• We often did presentations and group activities; Dr. Gray helped me think as an engineer.</text>
+<text top="378" left="65" width="140" height="10" font="3">• His genuine care for his students.</text>
+<text top="395" left="65" width="537" height="10" font="3">• His office hours were extremely helpful; he always seemed very approachable should I need help with an assignment or large project.</text>
+<text top="412" left="65" width="566" height="10" font="3">• He was extremely engaging when lecturing, and very approachable when we we're working on activities. I was never nervous to ask for help.</text>
+<text top="430" left="65" width="669" height="10" font="3">• The Planning to be a Hokie Engineer assignment was good because it let me explore the major that I wanted and find out more about what is in my future if I pursue it.</text>
+<text top="447" left="65" width="787" height="10" font="3">• Reverend Gray always made this class a high point in my day to the point where I looked forward to coming. He really cares about his student's mental health and it shows. He schedules due dates</text>
+<text top="457" left="65" width="206" height="10" font="3">around tests that he knows we all need to study for.</text>
+<text top="475" left="65" width="775" height="10" font="3">• All of the feedback and input in projects really helped create projects I was happy with. Even if the projects themselves weren't always perfect, what I learned from my mistakes was still valuable.</text>
+<text top="492" left="65" width="194" height="10" font="3">• Had engaging team-oriented activities planned.</text>
+<text top="510" left="65" width="159" height="10" font="3">• I find the lectures to be the interesting.</text>
+<text top="527" left="65" width="254" height="10" font="3">• Provided examples on how the projects were to be completed.</text>
+<text top="544" left="65" width="440" height="10" font="3">• Getting to know the students better and respect their attention and scenarios going on in each individuals life.</text>
+<text top="562" left="65" width="380" height="10" font="3">• He does his best to relate to students and create an environment in which we feel comfortable</text>
+<text top="579" left="65" width="245" height="10" font="3">• Guest speakers and student panels to get new perspectives</text>
+<text top="596" left="65" width="334" height="10" font="3">• Although he is laid back, he still effectively teaches the material he needs to teach.</text>
+<text top="614" left="65" width="258" height="10" font="3">• He was very clear on what needed to be done for assignments.</text>
+<text top="631" left="65" width="472" height="10" font="3">• He was gentle, kind, and clear in his classes. He started every class with a little short poll/discussion board about life.</text>
+<text top="649" left="65" width="222" height="10" font="3">• Allow the groups to work out problems for themselves.</text>
+<text top="666" left="65" width="358" height="10" font="3">• Gray listens to student feedback and implements it in his teaching which is really helpful.</text>
+<text top="683" left="65" width="464" height="10" font="3">• I like how Dr. Gray talked with us about our personal lives, asked us how we were doing, and gave us advising tips.</text>
+<text top="701" left="65" width="233" height="10" font="3">• Made the class engaging and gave us enjoyable projects</text>
+<text top="718" left="65" width="239" height="10" font="3">• He brought up new ways to learn stuff that may not be fun.</text>
+<text top="736" left="65" width="200" height="10" font="3">• Kept the class environment light-hearted and fun</text>
+<text top="753" left="65" width="166" height="10" font="3">• He gave us class time to do group work.</text>
+<text top="770" left="65" width="204" height="10" font="3">• Outlined course in a well understandable manner.</text>
+<text top="788" left="65" width="342" height="10" font="3">• He explained matlab more than some of my friends teachers which was very helpful.</text>
+<text top="805" left="65" width="508" height="10" font="3">• He was extremely supportive and went out of his way to motivate us. His teaching method was really relaxed and comfortable.</text>
+<text top="823" left="65" width="255" height="10" font="3">• He's just an all around good guy and cares about his students.</text>
+<text top="840" left="65" width="226" height="10" font="3">• He made the class fun even though it was pretty boring</text>
+<text top="857" left="65" width="325" height="10" font="3">• He made subjects that had potential to be super boring, more engaging and fun.</text>
+<text top="875" left="65" width="595" height="10" font="3">• He always made the class and the material as interesting as possible as well as emphasized group work which will be useful as I move on in school.</text>
+<text top="892" left="65" width="80" height="10" font="3">• strong enthusiasm</text>
+<text top="909" left="65" width="317" height="10" font="3">• Providing oppurtunity for group work and communication between teammates.</text>
+<text top="927" left="65" width="380" height="10" font="3">• His presented the material really well and I learned a lot throughout the duration of the course.</text>
+<text top="944" left="65" width="100" height="10" font="3">• Improved MATLAB skill</text>
+<text top="962" left="65" width="198" height="10" font="3">• He makes a strong effort to connect to students.</text>
+<text top="979" left="65" width="363" height="10" font="3">• He answered every question with an honest answer and provided a structured classroom.</text>
+<text top="996" left="65" width="98" height="10" font="3">• Made class interesting.</text>
+<text top="1014" left="65" width="316" height="10" font="3">• He taught in a way that was engaging and made me feel involved in the class.</text>
+<text top="1031" left="65" width="288" height="10" font="3">• He related what we were talking about to actual engineering situations.</text>
+<text top="1049" left="65" width="148" height="10" font="3">• Talked alot about toast and whales.</text>
+<text top="1066" left="65" width="504" height="10" font="3">• Dr. Gray was great at guiding us through our first semester and teaching us what it means to be an engineer at Virginia Tech.</text>
+<text top="1083" left="65" width="585" height="10" font="3">• Everything was very well organized so I knew exactly what to do. He also walked around and gave us feedback during class which is very helpful.</text>
+<text top="1101" left="65" width="293" height="10" font="3">• He told us what to do and was pretty clear when assignments were due.</text>
+<text top="1118" left="65" width="407" height="10" font="3">• He was engaging and listened to what students felt would help them in how they wanted to be taught</text>
+<text top="1135" left="65" width="447" height="10" font="3">• He made class engaging by making an effort to be entertaining and really took our feedback into consideration.</text>
+<text top="124" left="60" width="59" height="14" font="8"><b>Instructor:</b></text>
+<text top="124" left="162" width="73" height="14" font="9">David Gray * </text>
+<text top="100" left="162" width="626" height="17" font="10">ENGE_1215_83949_201909: (83949) Founda ons of Engineering-ENGE_1215_83949_201909</text>
+<text top="100" left="60" width="52" height="17" font="11"><b>Course:</b></text>
+<text top="51" left="60" width="422" height="20" font="12"><b>Fall 2019 VT Student Percep ons of Teaching (SPOT)</b></text>
+<text top="27" left="60" width="105" height="20" font="12"><b>Virginia Tech</b></text>
+<text top="147" left="162" width="87" height="14" font="9">65/73 (89.04 %)</text>
+<text top="147" left="60" width="86" height="14" font="8"><b>Response Rate:</b></text>
+<text top="1163" left="813" width="51" height="10" font="3">Page 3 of 10</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="223" left="65" width="373" height="10" font="3">• Dr. Gray helped me figure out the type of engineering I want to pursue here at Virginia Tech.</text>
+<text top="240" left="65" width="271" height="10" font="3">• His lecture were very interactive and kept me engaged in the class</text>
+<text top="258" left="65" width="254" height="10" font="3">• Made a kind of boring class fun, which was much appreciated.</text>
+<text top="275" left="65" width="53" height="10" font="3">• Whale facts</text>
+<text top="124" left="60" width="59" height="14" font="8"><b>Instructor:</b></text>
+<text top="124" left="162" width="73" height="14" font="9">David Gray * </text>
+<text top="100" left="162" width="626" height="17" font="10">ENGE_1215_83949_201909: (83949) Founda ons of Engineering-ENGE_1215_83949_201909</text>
+<text top="100" left="60" width="52" height="17" font="11"><b>Course:</b></text>
+<text top="51" left="60" width="422" height="20" font="12"><b>Fall 2019 VT Student Percep ons of Teaching (SPOT)</b></text>
+<text top="27" left="60" width="105" height="20" font="12"><b>Virginia Tech</b></text>
+<text top="147" left="162" width="87" height="14" font="9">65/73 (89.04 %)</text>
+<text top="147" left="60" width="86" height="14" font="8"><b>Response Rate:</b></text>
+<text top="1163" left="813" width="51" height="10" font="3">Page 4 of 10</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="221" left="60" width="494" height="12" font="0"><b>3 - Please indicate the extent to which you agree or disagree with each of the following statements:</b></text>
+<text top="242" left="60" width="410" height="12" font="0"><b>3A - I have a deeper understanding of the subject matter as a result of this course.</b></text>
+<text top="263" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="263" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="263" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="263" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="263" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="282" left="60" width="82" height="12" font="2">Strongly disagree</text>
+<text top="282" left="291" width="13" height="12" font="2">(1)</text>
+<text top="282" left="349" width="6" height="12" font="2">0</text>
+<text top="282" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="300" left="60" width="42" height="12" font="2">Disagree</text>
+<text top="300" left="291" width="13" height="12" font="2">(2)</text>
+<text top="300" left="349" width="6" height="12" font="2">0</text>
+<text top="300" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="318" left="60" width="93" height="12" font="2">Somewhat disagree</text>
+<text top="318" left="291" width="13" height="12" font="2">(3)</text>
+<text top="318" left="349" width="6" height="12" font="2">2</text>
+<text top="318" left="401" width="30" height="12" font="2">3.23%</text>
+<text top="336" left="60" width="79" height="12" font="2">Somewhat agree</text>
+<text top="336" left="291" width="13" height="12" font="2">(4)</text>
+<text top="336" left="346" width="12" height="12" font="2">10</text>
+<text top="336" left="398" width="36" height="12" font="2">16.13%</text>
+<text top="355" left="60" width="28" height="12" font="2">Agree</text>
+<text top="355" left="291" width="13" height="12" font="2">(5)</text>
+<text top="355" left="346" width="12" height="12" font="2">28</text>
+<text top="355" left="398" width="36" height="12" font="2">45.16%</text>
+<text top="373" left="60" width="68" height="12" font="2">Strongly agree</text>
+<text top="373" left="291" width="13" height="12" font="2">(6)</text>
+<text top="373" left="346" width="12" height="12" font="2">22</text>
+<text top="373" left="398" width="36" height="12" font="2">35.48%</text>
+<text top="287" left="588" width="18" height="10" font="3">5.13</text>
+<text top="288" left="664" width="18" height="10" font="3">5.10</text>
+<text top="289" left="739" width="18" height="10" font="3">5.00</text>
+<text top="390" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="390" left="584" width="30" height="8" font="5">Question</text>
+<text top="390" left="662" width="25" height="8" font="5">College</text>
+<text top="390" left="731" width="39" height="8" font="5">Department</text>
+<text top="403" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="403" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="403" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="403" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="403" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="403" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="403" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="403" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="403" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="403" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="403" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="403" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="418" left="95" width="62" height="10" font="7">62/73 (84.93%)</text>
+<text top="418" left="214" width="18" height="10" font="3">5.13</text>
+<text top="418" left="266" width="18" height="10" font="7">0.80</text>
+<text top="418" left="319" width="18" height="10" font="7">5.00</text>
+<text top="418" left="394" width="25" height="10" font="7">18818</text>
+<text top="418" left="476" width="18" height="10" font="7">5.10</text>
+<text top="418" left="528" width="18" height="10" font="7">1.08</text>
+<text top="418" left="578" width="18" height="10" font="7">5.00</text>
+<text top="418" left="653" width="20" height="10" font="7">2326</text>
+<text top="418" left="731" width="18" height="10" font="7">5.00</text>
+<text top="418" left="781" width="18" height="10" font="7">1.10</text>
+<text top="418" left="830" width="18" height="10" font="7">5.00</text>
+<text top="454" left="60" width="494" height="12" font="0"><b>3 - Please indicate the extent to which you agree or disagree with each of the following statements:</b></text>
+<text top="475" left="60" width="339" height="12" font="0"><b>3B - My interest in the subject matter was stimulated by this course.</b></text>
+<text top="496" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="496" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="496" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="496" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="496" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="515" left="60" width="82" height="12" font="2">Strongly disagree</text>
+<text top="515" left="291" width="13" height="12" font="2">(1)</text>
+<text top="515" left="349" width="6" height="12" font="2">0</text>
+<text top="515" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="533" left="60" width="42" height="12" font="2">Disagree</text>
+<text top="533" left="291" width="13" height="12" font="2">(2)</text>
+<text top="533" left="349" width="6" height="12" font="2">2</text>
+<text top="533" left="401" width="30" height="12" font="2">3.23%</text>
+<text top="552" left="60" width="93" height="12" font="2">Somewhat disagree</text>
+<text top="552" left="291" width="13" height="12" font="2">(3)</text>
+<text top="552" left="349" width="6" height="12" font="2">1</text>
+<text top="552" left="401" width="30" height="12" font="2">1.61%</text>
+<text top="570" left="60" width="79" height="12" font="2">Somewhat agree</text>
+<text top="570" left="291" width="13" height="12" font="2">(4)</text>
+<text top="570" left="349" width="6" height="12" font="2">3</text>
+<text top="570" left="401" width="30" height="12" font="2">4.84%</text>
+<text top="588" left="60" width="28" height="12" font="2">Agree</text>
+<text top="588" left="291" width="13" height="12" font="2">(5)</text>
+<text top="588" left="346" width="12" height="12" font="2">29</text>
+<text top="588" left="398" width="36" height="12" font="2">46.77%</text>
+<text top="606" left="60" width="68" height="12" font="2">Strongly agree</text>
+<text top="606" left="291" width="13" height="12" font="2">(6)</text>
+<text top="606" left="346" width="12" height="12" font="2">27</text>
+<text top="606" left="398" width="36" height="12" font="2">43.55%</text>
+<text top="518" left="588" width="18" height="10" font="3">5.26</text>
+<text top="526" left="664" width="18" height="10" font="3">4.82</text>
+<text top="526" left="739" width="18" height="10" font="3">4.82</text>
+<text top="623" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="623" left="584" width="30" height="8" font="5">Question</text>
+<text top="623" left="662" width="25" height="8" font="5">College</text>
+<text top="623" left="731" width="39" height="8" font="5">Department</text>
+<text top="636" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="636" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="636" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="636" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="636" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="636" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="636" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="636" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="636" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="636" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="636" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="636" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="651" left="95" width="62" height="10" font="7">62/73 (84.93%)</text>
+<text top="651" left="214" width="18" height="10" font="3">5.26</text>
+<text top="651" left="266" width="18" height="10" font="7">0.89</text>
+<text top="651" left="319" width="18" height="10" font="7">5.00</text>
+<text top="651" left="394" width="25" height="10" font="7">18733</text>
+<text top="651" left="476" width="18" height="10" font="7">4.82</text>
+<text top="651" left="528" width="18" height="10" font="7">1.33</text>
+<text top="651" left="578" width="18" height="10" font="7">5.00</text>
+<text top="651" left="653" width="20" height="10" font="7">2311</text>
+<text top="651" left="731" width="18" height="10" font="7">4.82</text>
+<text top="651" left="781" width="18" height="10" font="7">1.26</text>
+<text top="651" left="830" width="18" height="10" font="7">5.00</text>
+<text top="124" left="60" width="59" height="14" font="8"><b>Instructor:</b></text>
+<text top="124" left="162" width="73" height="14" font="9">David Gray * </text>
+<text top="100" left="162" width="626" height="17" font="10">ENGE_1215_83949_201909: (83949) Founda ons of Engineering-ENGE_1215_83949_201909</text>
+<text top="100" left="60" width="52" height="17" font="11"><b>Course:</b></text>
+<text top="51" left="60" width="422" height="20" font="12"><b>Fall 2019 VT Student Percep ons of Teaching (SPOT)</b></text>
+<text top="27" left="60" width="105" height="20" font="12"><b>Virginia Tech</b></text>
+<text top="147" left="162" width="87" height="14" font="9">65/73 (89.04 %)</text>
+<text top="147" left="60" width="86" height="14" font="8"><b>Response Rate:</b></text>
+<text top="1163" left="813" width="51" height="10" font="3">Page 5 of 10</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="221" left="60" width="284" height="12" font="0"><b>4 - 4A - What could you have done to be a better learner?</b></text>
+<text top="239" left="118" width="65" height="10" font="13"><b>Response Rate</b></text>
+<text top="239" left="252" width="62" height="10" font="3">49/73 (67.12%)</text>
+<text top="259" left="65" width="565" height="10" font="3">• I could have been more involved in my engineering team and participated more in group projects to better stimulate my learning in this class.</text>
+<text top="277" left="65" width="98" height="10" font="3">• Asked more questions!</text>
+<text top="294" left="65" width="161" height="10" font="3">• Paid more attention during the lectures</text>
+<text top="311" left="65" width="165" height="10" font="3">• Not had an idle game open during class</text>
+<text top="329" left="65" width="370" height="10" font="3">• I could have started my assignment sooner so that I would have more time to go in for help.</text>
+<text top="346" left="65" width="309" height="10" font="3">• Do things in the &#34;above and beyond&#34; section of the assignment descriptions.</text>
+<text top="363" left="65" width="101" height="10" font="3">• Manage my time better.</text>
+<text top="381" left="65" width="21" height="10" font="3">• N/A</text>
+<text top="398" left="65" width="600" height="10" font="3">• Breaking up work and doing more in advance throughout the semester would have helped a lot, but I slowly did get a little better at it as time went on.</text>
+<text top="416" left="65" width="68" height="10" font="3">• I think I did well</text>
+<text top="433" left="65" width="130" height="10" font="3">• Focus more and not drift away.</text>
+<text top="450" left="65" width="288" height="10" font="3">• I could have engaged more with some of the material and assignments</text>
+<text top="468" left="65" width="96" height="10" font="3">• Focused more in class</text>
+<text top="485" left="65" width="167" height="10" font="3">• I could be more engaging with the class.</text>
+<text top="503" left="65" width="272" height="10" font="3">• Started my assignments sooner or went to office hours more often.</text>
+<text top="520" left="65" width="109" height="10" font="3">• Asked for more feedback.</text>
+<text top="537" left="65" width="472" height="10" font="3">• I could have started assignments earlier than I did, to make sure they were turned in on time and were my best effort.</text>
+<text top="555" left="65" width="192" height="10" font="3">• I could have played Pokemon Go less in class.</text>
+<text top="572" left="65" width="187" height="10" font="3">• Spent more time on some of the assignments</text>
+<text top="589" left="65" width="207" height="10" font="3">• Start the materials earlier and ask more questions.</text>
+<text top="607" left="65" width="86" height="10" font="3">• Went to office hours</text>
+<text top="624" left="65" width="250" height="10" font="3">• I could have more attention while the instructor was lecturing.</text>
+<text top="642" left="65" width="200" height="10" font="3">• Taken more time outside class to study subjects.</text>
+<text top="659" left="65" width="205" height="10" font="3">• I could have spent more time on the assignments.</text>
+<text top="676" left="65" width="268" height="10" font="3">• I turned in a few things late because I am a master procrastinator.</text>
+<text top="694" left="65" width="37" height="10" font="3">• Nothing</text>
+<text top="711" left="65" width="111" height="10" font="3">• Spend more time studying</text>
+<text top="729" left="65" width="370" height="10" font="3">• Followed the guidelines of some submissions more carefully in order to receive more credit.</text>
+<text top="746" left="65" width="174" height="10" font="3">• Been more on top of my out of class work.</text>
+<text top="763" left="65" width="154" height="10" font="3">• not much, did the assignments better</text>
+<text top="781" left="65" width="241" height="10" font="3">• Gone to office hours when I was struggling in assignments.</text>
+<text top="798" left="65" width="134" height="10" font="3">• I could have focused a bit more.</text>
+<text top="816" left="65" width="63" height="10" font="3">• Nothing more.</text>
+<text top="833" left="65" width="156" height="10" font="3">• I could've paid more attention in class</text>
+<text top="850" left="65" width="560" height="10" font="3">• I could have looked more into the different engineering disciplines on my own time instead of relying on them all to be covered fully in class.</text>
+<text top="868" left="65" width="87" height="10" font="3">• done more research</text>
+<text top="885" left="65" width="398" height="10" font="3">• I could have worked harder on learning MATLAB and exploring the different engineering disiplines.</text>
+<text top="902" left="65" width="214" height="10" font="3">• There were times where I kind of zoned out of class.</text>
+<text top="920" left="65" width="36" height="10" font="3">• nothing</text>
+<text top="937" left="65" width="166" height="10" font="3">• Read the slides and task sections more.</text>
+<text top="955" left="65" width="284" height="10" font="3">• I could have asked more questions to be a more participating student.</text>
+<text top="972" left="65" width="80" height="10" font="3">• Take notes maybe</text>
+<text top="989" left="65" width="196" height="10" font="3">• I could have put more effort in the assignments.</text>
+<text top="1007" left="65" width="319" height="10" font="3">• Done more assignments ahead of time to account for my job getting in the way</text>
+<text top="1024" left="65" width="158" height="10" font="3">• Tried harder and applied myself more.</text>
+<text top="1042" left="65" width="354" height="10" font="3">• I could have listened better in class, taken better notes, and have attended office hours.</text>
+<text top="1059" left="65" width="521" height="10" font="3">• I could have payed more attention to some of the lecture that did not appeal to me as much so I could understand all the material.</text>
+<text top="1076" left="65" width="39" height="10" font="3">• not sure</text>
+<text top="1094" left="65" width="78" height="10" font="3">• Wales the country</text>
+<text top="124" left="60" width="59" height="14" font="8"><b>Instructor:</b></text>
+<text top="124" left="162" width="73" height="14" font="9">David Gray * </text>
+<text top="100" left="162" width="626" height="17" font="10">ENGE_1215_83949_201909: (83949) Founda ons of Engineering-ENGE_1215_83949_201909</text>
+<text top="100" left="60" width="52" height="17" font="11"><b>Course:</b></text>
+<text top="51" left="60" width="422" height="20" font="12"><b>Fall 2019 VT Student Percep ons of Teaching (SPOT)</b></text>
+<text top="27" left="60" width="105" height="20" font="12"><b>Virginia Tech</b></text>
+<text top="147" left="162" width="87" height="14" font="9">65/73 (89.04 %)</text>
+<text top="147" left="60" width="86" height="14" font="8"><b>Response Rate:</b></text>
+<text top="1163" left="813" width="51" height="10" font="3">Page 6 of 10</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="221" left="60" width="444" height="12" font="0"><b>5 - 5A - Please add any additional comments regarding the course and/or instructor here:</b></text>
+<text top="242" left="60" width="55" height="12" font="0"><b>David Gray</b></text>
+<text top="260" left="118" width="65" height="10" font="13"><b>Response Rate</b></text>
+<text top="260" left="252" width="62" height="10" font="3">42/73 (57.53%)</text>
+<text top="280" left="65" width="787" height="10" font="3">• David Gray is not like any teacher I've had before. Although I do not think he necessarily knows his students by name, he was able to foster a sense of connection with every student in my class in</text>
+<text top="291" left="65" width="686" height="10" font="3">a way that I have never seen before. You can really tell that he respects us greatly and wants each and every one of us to succeed. I appreciate that in a teacher very much.</text>
+<text top="308" left="65" width="92" height="10" font="3">• He is a great teacher!</text>
+<text top="325" left="65" width="448" height="10" font="3">• You are an outstanding teacher who keeps every class interesting even if the material is not always interesting.</text>
+<text top="343" left="65" width="352" height="10" font="3">• Really enjoyed the professor, I think he teaches this class the best way it can be taught</text>
+<text top="360" left="65" width="305" height="10" font="3">• I hope the professor could upload the outline and related materials on time.</text>
+<text top="378" left="65" width="465" height="10" font="3">• He was absolutely fantastic. I've heard this class is not everyone's favorite but he kept the class fun and interesting.</text>
+<text top="395" left="65" width="47" height="10" font="3">• Cool dude</text>
+<text top="412" left="65" width="787" height="10" font="3">• Please do not make anyone do the problem ID journals anymore, or if you must make them fewer (either less problems per day or fewer days that we have to do them). They were very annoying to</text>
+<text top="423" left="65" width="787" height="10" font="3">do every day and quickly became pretty useless because there were only so many good problems, so it just devolved into trying to make up problems. I didn't have too much trouble with MATLAB</text>
+<text top="433" left="65" width="787" height="10" font="3">but I think that it would be easier to understand if MATLAB skills were gone over more in class, and also going over all of the challenges in class after they were due would be good, because we went</text>
+<text top="443" left="65" width="152" height="10" font="3">over one but didn't go over the others.</text>
+<text top="461" left="65" width="247" height="10" font="3">• The Reverend is hands down the best teacher I've ever had.</text>
+<text top="478" left="65" width="281" height="10" font="3">• I really appreciate all the good advice given throughout the semester.</text>
+<text top="495" left="65" width="577" height="10" font="3">• He is a very fun person to have as an instructor as he makes the class as engaging as possible for us and always comes in with a good attitude</text>
+<text top="513" left="65" width="337" height="10" font="3">• He is a very nice and cool teacher who is also able to teach the material effectively.</text>
+<text top="530" left="65" width="89" height="10" font="3">• Very good instructor!</text>
+<text top="548" left="65" width="787" height="10" font="3">• This guy really made a boring class exciting and fun to be in. He could improve by teaching MATLAB instead of making us figure it out on our own. That may be something across all classes,</text>
+<text top="558" left="65" width="574" height="10" font="3">though, and is not unique to his class. The Engineering Department should look into how effective their current curriculum for MATLAB is taught.</text>
+<text top="575" left="65" width="430" height="10" font="3">• Gray is a good instructor. He teaches well and asks the students of what they need in order to learn better.</text>
+<text top="593" left="65" width="787" height="10" font="3">• I liked how interesting Dr. Gray provided engineering material, however I wish I learned more about the individual disciplines of engineering more. I also wish I was able to understand MATLAB</text>
+<text top="603" left="65" width="85" height="10" font="3">better from the class.</text>
+<text top="621" left="65" width="145" height="10" font="3">• I loved the instructor and the class.</text>
+<text top="638" left="65" width="787" height="10" font="3">• The instructor started the class with how everyone was feeling which made us laugh and feel apart of the class. The class was pretty easy, but more help and introduction to MATLAB would be</text>
+<text top="648" left="65" width="23" height="10" font="3">great.</text>
+<text top="666" left="65" width="185" height="10" font="3">• Instructor came prepared to teach every day.</text>
+<text top="683" left="65" width="192" height="10" font="3">• Great teacher chose him for next semester too</text>
+<text top="700" left="65" width="787" height="10" font="3">• I loved Dr.Gray's class so much, I am taking 1216 with him next semester! I had a great group and I really loved the support and motivation I got every day in class. Matlab was painful, but I can't</text>
+<text top="711" left="65" width="702" height="10" font="3">say I would be any better at it if I had any other professor. The humor supported a comfortable and productive atmosphere, thank you for a great first experience in this program!</text>
+<text top="728" left="65" width="21" height="10" font="3">• N/A</text>
+<text top="746" left="65" width="120" height="10" font="3">• Good Job teaching the class</text>
+<text top="763" left="65" width="267" height="10" font="3">• Was an awesome teacher to have for my first semester of school.</text>
+<text top="780" left="65" width="344" height="10" font="3">• I understand you dont have much control over how you teach but you did good with it</text>
+<text top="798" left="65" width="349" height="10" font="3">• Provide descriptions that clearly state the task and do not seem open to interpretation.</text>
+<text top="815" left="65" width="232" height="10" font="3">• I really enjoyed Dr. Gray, I wish I had him next semester.</text>
+<text top="832" left="65" width="60" height="10" font="3">• No comment.</text>
+<text top="850" left="65" width="353" height="10" font="3">• Dr Gray is one of my favorite professors here and I thoroughly enjoyed taking his class.</text>
+<text top="867" left="65" width="385" height="10" font="3">• Dr. Gray made the class interesting and fun and it made me confident I want to be an engineer.</text>
+<text top="885" left="65" width="655" height="10" font="3">• Something about the course that I would like to add would be learning more about the different engineering disciplines. We covered very few of them in this course.</text>
+<text top="902" left="65" width="593" height="10" font="3">• You're amazing, and one of the reasons I am enjoying my first semester so much. I am really looking forward to taking 1216 with you next semester</text>
+<text top="919" left="65" width="787" height="10" font="3">•  The  instructor  is  way  too  underappreciated  by  the  school  of  engineering,  maybe  even  the  whole  university.  Professor  really  cares  about  our  learning  and  strives  to  preserve  a  great  class</text>
+<text top="930" left="65" width="52" height="10" font="3">environment.</text>
+<text top="947" left="65" width="641" height="10" font="3">• This class taught me a lot about what engineering is. However, I wish I could have been given more resources to learn about each engineering degree in depth.</text>
+<text top="964" left="65" width="237" height="10" font="3">• The course needs more focus on branches of engineering</text>
+<text top="982" left="65" width="157" height="10" font="3">• I would appreciate if we did less work.</text>
+<text top="999" left="65" width="564" height="10" font="3">• Really cool professor who is extremely knowledgeable. He also extends beyond normal classroom learning to teach about real-world issues.</text>
+<text top="1017" left="65" width="330" height="10" font="3">• He was an excellent instructor and has been my favorite professor at Tech so far.</text>
+<text top="1034" left="65" width="504" height="10" font="3">• Thank you Dr. Gray. Perfect professor for my first engineering course here at VT, can't wait to have you again next semester.</text>
+<text top="1051" left="65" width="322" height="10" font="3">• I found the course very useful and appreciate the hard work the Dr. Gray put in.</text>
+<text top="1069" left="65" width="238" height="10" font="3">• He makes the class fun, even though the content is boring</text>
+<text top="1086" left="65" width="105" height="10" font="3">• Wales the Country Facts</text>
+<text top="124" left="60" width="59" height="14" font="8"><b>Instructor:</b></text>
+<text top="124" left="162" width="73" height="14" font="9">David Gray * </text>
+<text top="100" left="162" width="626" height="17" font="10">ENGE_1215_83949_201909: (83949) Founda ons of Engineering-ENGE_1215_83949_201909</text>
+<text top="100" left="60" width="52" height="17" font="11"><b>Course:</b></text>
+<text top="51" left="60" width="422" height="20" font="12"><b>Fall 2019 VT Student Percep ons of Teaching (SPOT)</b></text>
+<text top="27" left="60" width="105" height="20" font="12"><b>Virginia Tech</b></text>
+<text top="147" left="162" width="87" height="14" font="9">65/73 (89.04 %)</text>
+<text top="147" left="60" width="86" height="14" font="8"><b>Response Rate:</b></text>
+<text top="1163" left="813" width="51" height="10" font="3">Page 7 of 10</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="221" left="60" width="742" height="12" font="0"><b>6 - 6A - How would you rate the physical environment in which you took this class based upon your ability to see, hear, concentrate, and participate?</b></text>
+<text top="242" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="242" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="242" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="242" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="242" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="261" left="60" width="43" height="12" font="2">Very Bad</text>
+<text top="261" left="291" width="13" height="12" font="2">(1)</text>
+<text top="261" left="349" width="6" height="12" font="2">0</text>
+<text top="261" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="279" left="60" width="19" height="12" font="2">Bad</text>
+<text top="279" left="291" width="13" height="12" font="2">(2)</text>
+<text top="279" left="349" width="6" height="12" font="2">0</text>
+<text top="279" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="297" left="60" width="22" height="12" font="2">Poor</text>
+<text top="297" left="291" width="13" height="12" font="2">(3)</text>
+<text top="297" left="349" width="6" height="12" font="2">0</text>
+<text top="297" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="315" left="60" width="18" height="12" font="2">Fair</text>
+<text top="315" left="291" width="13" height="12" font="2">(4)</text>
+<text top="315" left="349" width="6" height="12" font="2">2</text>
+<text top="315" left="401" width="30" height="12" font="2">3.23%</text>
+<text top="333" left="60" width="26" height="12" font="2">Good</text>
+<text top="333" left="291" width="13" height="12" font="2">(5)</text>
+<text top="333" left="346" width="12" height="12" font="2">25</text>
+<text top="333" left="398" width="36" height="12" font="2">40.32%</text>
+<text top="352" left="60" width="50" height="12" font="2">Very Good</text>
+<text top="352" left="291" width="13" height="12" font="2">(6)</text>
+<text top="352" left="346" width="12" height="12" font="2">35</text>
+<text top="352" left="398" width="36" height="12" font="2">56.45%</text>
+<text top="262" left="588" width="18" height="10" font="3">5.53</text>
+<text top="267" left="664" width="18" height="10" font="3">5.11</text>
+<text top="262" left="739" width="18" height="10" font="3">5.43</text>
+<text top="369" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="369" left="584" width="30" height="8" font="5">Question</text>
+<text top="369" left="662" width="25" height="8" font="5">College</text>
+<text top="369" left="731" width="39" height="8" font="5">Department</text>
+<text top="382" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="382" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="382" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="382" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="382" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="382" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="382" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="382" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="382" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="382" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="382" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="382" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="397" left="95" width="62" height="10" font="7">62/73 (84.93%)</text>
+<text top="397" left="214" width="18" height="10" font="3">5.53</text>
+<text top="397" left="266" width="18" height="10" font="7">0.56</text>
+<text top="397" left="319" width="18" height="10" font="7">6.00</text>
+<text top="397" left="394" width="25" height="10" font="7">18702</text>
+<text top="397" left="476" width="18" height="10" font="7">5.11</text>
+<text top="397" left="528" width="18" height="10" font="7">0.98</text>
+<text top="397" left="578" width="18" height="10" font="7">5.00</text>
+<text top="397" left="653" width="20" height="10" font="7">2307</text>
+<text top="397" left="731" width="18" height="10" font="7">5.43</text>
+<text top="397" left="781" width="18" height="10" font="7">0.72</text>
+<text top="397" left="830" width="18" height="10" font="7">6.00</text>
+<text top="433" left="60" width="359" height="12" font="0"><b>7 - 7A - Please add any comments about the physical environment here:</b></text>
+<text top="451" left="118" width="65" height="10" font="13"><b>Response Rate</b></text>
+<text top="451" left="252" width="57" height="10" font="3">30/73 (41.1%)</text>
+<text top="471" left="65" width="468" height="10" font="3">• We did our work in a nice classroom with comfortable chairs and a good quality video and audio system for lectures.</text>
+<text top="489" left="65" width="182" height="10" font="3">• Sometimes the seats are too close together.</text>
+<text top="506" left="65" width="185" height="10" font="3">• Really enjoyed the classroom for this course.</text>
+<text top="523" left="65" width="463" height="10" font="3">• The last row is too far from the screen, sometimes I cannot see the words on the screen if I do not photo the slides.</text>
+<text top="541" left="65" width="274" height="10" font="3">• I really liked the chairs and the fact there were outlets for everyone.</text>
+<text top="558" left="65" width="234" height="10" font="3">• even in the back of the class, i could still see well enough</text>
+<text top="576" left="65" width="95" height="10" font="3">• Goodwin is super nice</text>
+<text top="593" left="65" width="510" height="10" font="3">• The environment is very nice with the 2 big windows, and since it is a regular sized class, it is easy to focus on Professor Gray.</text>
+<text top="610" left="65" width="105" height="10" font="3">• No additional comments.</text>
+<text top="628" left="65" width="424" height="10" font="3">• He creates a positive light-hearted environment in which a student can feel good, but also get work done.</text>
+<text top="645" left="65" width="287" height="10" font="3">• The physical environment was fine, it was just a long walk to Goodwin.</text>
+<text top="663" left="65" width="257" height="10" font="3">• The environment was big but the projectors were a little finicky.</text>
+<text top="680" left="65" width="150" height="10" font="3">• Good environment, well spaced out.</text>
+<text top="697" left="65" width="106" height="10" font="3">• Adequate space to learn.</text>
+<text top="715" left="65" width="114" height="10" font="3">• the classroom is really nice</text>
+<text top="732" left="65" width="408" height="10" font="3">• Again, super comfortable environment. I felt like I could share my ideas and I loved the laid back feel.</text>
+<text top="749" left="65" width="21" height="10" font="3">• N/A</text>
+<text top="767" left="65" width="78" height="10" font="3">• good environment</text>
+<text top="784" left="65" width="280" height="10" font="3">• Enjoyed the swivel chairs which made it easy to move in group work.</text>
+<text top="802" left="65" width="68" height="10" font="3">• kinda crammed</text>
+<text top="819" left="65" width="142" height="10" font="3">• Fun, entertaining, and full of toast.</text>
+<text top="836" left="65" width="55" height="10" font="3">• It was good.</text>
+<text top="854" left="65" width="478" height="10" font="3">• Dr. Gray helped make the environment of the class fun and exciting even when we weren't doing exciting stuff in class.</text>
+<text top="871" left="65" width="352" height="10" font="3">• Class was big enough to have a variety and diversity in group work and group projects.</text>
+<text top="889" left="65" width="413" height="10" font="3">• There wasn't a lot of space around the seats to work on presentations, projects, and other group work.</text>
+<text top="906" left="65" width="203" height="10" font="3">• Its a really nice space just really far from campus.</text>
+<text top="923" left="65" width="570" height="10" font="3">• I would appreciate some more instruction with MATLAB as it was difficult for me to follow most of the time. Especially on the take-home exam.</text>
+<text top="941" left="65" width="28" height="10" font="3">• Good</text>
+<text top="958" left="65" width="215" height="10" font="3">• Class had a good environment that fostered learning</text>
+<text top="975" left="65" width="115" height="10" font="3">• The environment was good</text>
+<text top="124" left="60" width="59" height="14" font="8"><b>Instructor:</b></text>
+<text top="124" left="162" width="73" height="14" font="9">David Gray * </text>
+<text top="100" left="162" width="626" height="17" font="10">ENGE_1215_83949_201909: (83949) Founda ons of Engineering-ENGE_1215_83949_201909</text>
+<text top="100" left="60" width="52" height="17" font="11"><b>Course:</b></text>
+<text top="51" left="60" width="422" height="20" font="12"><b>Fall 2019 VT Student Percep ons of Teaching (SPOT)</b></text>
+<text top="27" left="60" width="105" height="20" font="12"><b>Virginia Tech</b></text>
+<text top="147" left="162" width="87" height="14" font="9">65/73 (89.04 %)</text>
+<text top="147" left="60" width="86" height="14" font="8"><b>Response Rate:</b></text>
+<text top="1163" left="813" width="51" height="10" font="3">Page 8 of 10</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="221" left="60" width="494" height="12" font="0"><b>8 - Please indicate the extent to which you agree or disagree with each of the following statements:</b></text>
+<text top="242" left="60" width="194" height="12" font="0"><b>I improved my ability to problem solve.</b></text>
+<text top="263" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="263" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="263" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="263" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="263" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="282" left="60" width="82" height="12" font="2">Strongly disagree</text>
+<text top="282" left="291" width="13" height="12" font="2">(1)</text>
+<text top="282" left="349" width="6" height="12" font="2">0</text>
+<text top="282" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="300" left="60" width="42" height="12" font="2">Disagree</text>
+<text top="300" left="291" width="13" height="12" font="2">(2)</text>
+<text top="300" left="349" width="6" height="12" font="2">0</text>
+<text top="300" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="318" left="60" width="93" height="12" font="2">Somewhat disagree</text>
+<text top="318" left="291" width="13" height="12" font="2">(3)</text>
+<text top="318" left="349" width="6" height="12" font="2">1</text>
+<text top="318" left="401" width="30" height="12" font="2">1.61%</text>
+<text top="336" left="60" width="79" height="12" font="2">Somewhat agree</text>
+<text top="336" left="291" width="13" height="12" font="2">(4)</text>
+<text top="336" left="346" width="12" height="12" font="2">11</text>
+<text top="336" left="398" width="36" height="12" font="2">17.74%</text>
+<text top="355" left="60" width="28" height="12" font="2">Agree</text>
+<text top="355" left="291" width="13" height="12" font="2">(5)</text>
+<text top="355" left="346" width="12" height="12" font="2">23</text>
+<text top="355" left="398" width="36" height="12" font="2">37.10%</text>
+<text top="373" left="60" width="68" height="12" font="2">Strongly agree</text>
+<text top="373" left="291" width="13" height="12" font="2">(6)</text>
+<text top="373" left="346" width="12" height="12" font="2">27</text>
+<text top="373" left="398" width="36" height="12" font="2">43.55%</text>
+<text top="286" left="588" width="18" height="10" font="3">5.23</text>
+<text top="289" left="664" width="18" height="10" font="3">5.03</text>
+<text top="289" left="739" width="18" height="10" font="3">5.01</text>
+<text top="390" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="390" left="584" width="30" height="8" font="5">Question</text>
+<text top="390" left="662" width="25" height="8" font="5">College</text>
+<text top="390" left="731" width="39" height="8" font="5">Department</text>
+<text top="403" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="403" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="403" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="403" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="403" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="403" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="403" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="403" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="403" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="403" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="403" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="403" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="418" left="95" width="62" height="10" font="7">62/73 (84.93%)</text>
+<text top="418" left="214" width="18" height="10" font="3">5.23</text>
+<text top="418" left="266" width="18" height="10" font="7">0.80</text>
+<text top="418" left="319" width="18" height="10" font="7">5.00</text>
+<text top="418" left="394" width="25" height="10" font="7">18755</text>
+<text top="418" left="476" width="18" height="10" font="7">5.03</text>
+<text top="418" left="528" width="18" height="10" font="7">1.06</text>
+<text top="418" left="578" width="18" height="10" font="7">5.00</text>
+<text top="418" left="653" width="20" height="10" font="7">2319</text>
+<text top="418" left="731" width="18" height="10" font="7">5.01</text>
+<text top="418" left="781" width="18" height="10" font="7">1.02</text>
+<text top="418" left="830" width="18" height="10" font="7">5.00</text>
+<text top="454" left="60" width="494" height="12" font="0"><b>8 - Please indicate the extent to which you agree or disagree with each of the following statements:</b></text>
+<text top="475" left="60" width="388" height="12" font="0"><b>The textbook or course readings made a valuable contribution to my learning.</b></text>
+<text top="496" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="496" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="496" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="496" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="496" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="515" left="60" width="82" height="12" font="2">Strongly disagree</text>
+<text top="515" left="291" width="13" height="12" font="2">(1)</text>
+<text top="515" left="349" width="6" height="12" font="2">5</text>
+<text top="515" left="401" width="30" height="12" font="2">8.33%</text>
+<text top="533" left="60" width="42" height="12" font="2">Disagree</text>
+<text top="533" left="291" width="13" height="12" font="2">(2)</text>
+<text top="533" left="349" width="6" height="12" font="2">7</text>
+<text top="533" left="398" width="36" height="12" font="2">11.67%</text>
+<text top="552" left="60" width="93" height="12" font="2">Somewhat disagree</text>
+<text top="552" left="291" width="13" height="12" font="2">(3)</text>
+<text top="552" left="349" width="6" height="12" font="2">7</text>
+<text top="552" left="398" width="36" height="12" font="2">11.67%</text>
+<text top="570" left="60" width="79" height="12" font="2">Somewhat agree</text>
+<text top="570" left="291" width="13" height="12" font="2">(4)</text>
+<text top="570" left="346" width="12" height="12" font="2">20</text>
+<text top="570" left="398" width="36" height="12" font="2">33.33%</text>
+<text top="588" left="60" width="28" height="12" font="2">Agree</text>
+<text top="588" left="291" width="13" height="12" font="2">(5)</text>
+<text top="588" left="346" width="12" height="12" font="2">13</text>
+<text top="588" left="398" width="36" height="12" font="2">21.67%</text>
+<text top="606" left="60" width="68" height="12" font="2">Strongly agree</text>
+<text top="606" left="291" width="13" height="12" font="2">(6)</text>
+<text top="606" left="349" width="6" height="12" font="2">8</text>
+<text top="606" left="398" width="36" height="12" font="2">13.33%</text>
+<text top="542" left="588" width="18" height="10" font="3">3.88</text>
+<text top="532" left="664" width="18" height="10" font="3">4.43</text>
+<text top="536" left="739" width="18" height="10" font="3">4.20</text>
+<text top="623" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="623" left="584" width="30" height="8" font="5">Question</text>
+<text top="623" left="662" width="25" height="8" font="5">College</text>
+<text top="623" left="731" width="39" height="8" font="5">Department</text>
+<text top="636" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="636" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="636" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="636" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="636" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="636" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="636" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="636" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="636" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="636" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="636" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="636" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="651" left="95" width="62" height="10" font="7">60/73 (82.19%)</text>
+<text top="651" left="214" width="18" height="10" font="3">3.88</text>
+<text top="651" left="266" width="18" height="10" font="7">1.45</text>
+<text top="651" left="319" width="18" height="10" font="7">4.00</text>
+<text top="651" left="394" width="25" height="10" font="7">18617</text>
+<text top="651" left="476" width="18" height="10" font="7">4.43</text>
+<text top="651" left="528" width="18" height="10" font="7">1.49</text>
+<text top="651" left="578" width="18" height="10" font="7">5.00</text>
+<text top="651" left="653" width="20" height="10" font="7">2290</text>
+<text top="651" left="731" width="18" height="10" font="7">4.20</text>
+<text top="651" left="781" width="18" height="10" font="7">1.54</text>
+<text top="651" left="830" width="18" height="10" font="7">4.00</text>
+<text top="687" left="60" width="494" height="12" font="0"><b>8 - Please indicate the extent to which you agree or disagree with each of the following statements:</b></text>
+<text top="708" left="60" width="259" height="12" font="0"><b>The objectives of the course were clearly explained.</b></text>
+<text top="729" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="729" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="729" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="729" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="729" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="749" left="60" width="82" height="12" font="2">Strongly disagree</text>
+<text top="749" left="291" width="13" height="12" font="2">(1)</text>
+<text top="749" left="349" width="6" height="12" font="2">0</text>
+<text top="749" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="767" left="60" width="42" height="12" font="2">Disagree</text>
+<text top="767" left="291" width="13" height="12" font="2">(2)</text>
+<text top="767" left="349" width="6" height="12" font="2">1</text>
+<text top="767" left="401" width="30" height="12" font="2">1.64%</text>
+<text top="785" left="60" width="93" height="12" font="2">Somewhat disagree</text>
+<text top="785" left="291" width="13" height="12" font="2">(3)</text>
+<text top="785" left="349" width="6" height="12" font="2">3</text>
+<text top="785" left="401" width="30" height="12" font="2">4.92%</text>
+<text top="803" left="60" width="79" height="12" font="2">Somewhat agree</text>
+<text top="803" left="291" width="13" height="12" font="2">(4)</text>
+<text top="803" left="349" width="6" height="12" font="2">6</text>
+<text top="803" left="401" width="30" height="12" font="2">9.84%</text>
+<text top="821" left="60" width="28" height="12" font="2">Agree</text>
+<text top="821" left="291" width="13" height="12" font="2">(5)</text>
+<text top="821" left="346" width="12" height="12" font="2">24</text>
+<text top="821" left="398" width="36" height="12" font="2">39.34%</text>
+<text top="839" left="60" width="68" height="12" font="2">Strongly agree</text>
+<text top="839" left="291" width="13" height="12" font="2">(6)</text>
+<text top="839" left="346" width="12" height="12" font="2">27</text>
+<text top="839" left="398" width="36" height="12" font="2">44.26%</text>
+<text top="752" left="588" width="18" height="10" font="3">5.20</text>
+<text top="755" left="664" width="18" height="10" font="3">5.06</text>
+<text top="755" left="739" width="18" height="10" font="3">5.07</text>
+<text top="856" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="856" left="584" width="30" height="8" font="5">Question</text>
+<text top="856" left="662" width="25" height="8" font="5">College</text>
+<text top="856" left="731" width="39" height="8" font="5">Department</text>
+<text top="869" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="869" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="869" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="869" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="869" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="869" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="869" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="869" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="869" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="869" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="869" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="869" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="884" left="95" width="62" height="10" font="7">61/73 (83.56%)</text>
+<text top="884" left="214" width="18" height="10" font="3">5.20</text>
+<text top="884" left="266" width="18" height="10" font="7">0.93</text>
+<text top="884" left="319" width="18" height="10" font="7">5.00</text>
+<text top="884" left="394" width="25" height="10" font="7">18733</text>
+<text top="884" left="476" width="18" height="10" font="7">5.06</text>
+<text top="884" left="528" width="18" height="10" font="7">1.11</text>
+<text top="884" left="578" width="18" height="10" font="7">5.00</text>
+<text top="884" left="653" width="20" height="10" font="7">2316</text>
+<text top="884" left="731" width="18" height="10" font="7">5.07</text>
+<text top="884" left="781" width="18" height="10" font="7">1.09</text>
+<text top="884" left="830" width="18" height="10" font="7">5.00</text>
+<text top="920" left="60" width="494" height="12" font="0"><b>8 - Please indicate the extent to which you agree or disagree with each of the following statements:</b></text>
+<text top="941" left="60" width="293" height="12" font="0"><b>The out-of-class assignments were educationally valuable.</b></text>
+<text top="962" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="962" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="962" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="962" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="962" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="982" left="60" width="82" height="12" font="2">Strongly disagree</text>
+<text top="982" left="291" width="13" height="12" font="2">(1)</text>
+<text top="982" left="349" width="6" height="12" font="2">1</text>
+<text top="982" left="401" width="30" height="12" font="2">1.64%</text>
+<text top="1000" left="60" width="42" height="12" font="2">Disagree</text>
+<text top="1000" left="291" width="13" height="12" font="2">(2)</text>
+<text top="1000" left="349" width="6" height="12" font="2">2</text>
+<text top="1000" left="401" width="30" height="12" font="2">3.28%</text>
+<text top="1018" left="60" width="93" height="12" font="2">Somewhat disagree</text>
+<text top="1018" left="291" width="13" height="12" font="2">(3)</text>
+<text top="1018" left="349" width="6" height="12" font="2">5</text>
+<text top="1018" left="401" width="30" height="12" font="2">8.20%</text>
+<text top="1036" left="60" width="79" height="12" font="2">Somewhat agree</text>
+<text top="1036" left="291" width="13" height="12" font="2">(4)</text>
+<text top="1036" left="349" width="6" height="12" font="2">9</text>
+<text top="1036" left="398" width="36" height="12" font="2">14.75%</text>
+<text top="1054" left="60" width="28" height="12" font="2">Agree</text>
+<text top="1054" left="291" width="13" height="12" font="2">(5)</text>
+<text top="1054" left="346" width="12" height="12" font="2">25</text>
+<text top="1054" left="398" width="36" height="12" font="2">40.98%</text>
+<text top="1072" left="60" width="68" height="12" font="2">Strongly agree</text>
+<text top="1072" left="291" width="13" height="12" font="2">(6)</text>
+<text top="1072" left="346" width="12" height="12" font="2">19</text>
+<text top="1072" left="398" width="36" height="12" font="2">31.15%</text>
+<text top="992" left="588" width="18" height="10" font="3">4.84</text>
+<text top="989" left="664" width="18" height="10" font="3">4.99</text>
+<text top="991" left="739" width="18" height="10" font="3">4.86</text>
+<text top="1089" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="1089" left="584" width="30" height="8" font="5">Question</text>
+<text top="1089" left="662" width="25" height="8" font="5">College</text>
+<text top="1089" left="731" width="39" height="8" font="5">Department</text>
+<text top="1103" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="1103" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="1103" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="1103" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="1103" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="1103" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="1103" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="1103" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="1103" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="1103" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="1103" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="1103" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="1117" left="95" width="62" height="10" font="7">61/73 (83.56%)</text>
+<text top="1117" left="214" width="18" height="10" font="3">4.84</text>
+<text top="1117" left="266" width="18" height="10" font="7">1.16</text>
+<text top="1117" left="319" width="18" height="10" font="7">5.00</text>
+<text top="1117" left="394" width="25" height="10" font="7">18594</text>
+<text top="1117" left="476" width="18" height="10" font="7">4.99</text>
+<text top="1117" left="528" width="18" height="10" font="7">1.17</text>
+<text top="1117" left="578" width="18" height="10" font="7">5.00</text>
+<text top="1117" left="653" width="20" height="10" font="7">2297</text>
+<text top="1117" left="731" width="18" height="10" font="7">4.86</text>
+<text top="1117" left="781" width="18" height="10" font="7">1.21</text>
+<text top="1117" left="830" width="18" height="10" font="7">5.00</text>
+<text top="124" left="60" width="59" height="14" font="8"><b>Instructor:</b></text>
+<text top="124" left="162" width="73" height="14" font="9">David Gray * </text>
+<text top="100" left="162" width="626" height="17" font="10">ENGE_1215_83949_201909: (83949) Founda ons of Engineering-ENGE_1215_83949_201909</text>
+<text top="100" left="60" width="52" height="17" font="11"><b>Course:</b></text>
+<text top="51" left="60" width="422" height="20" font="12"><b>Fall 2019 VT Student Percep ons of Teaching (SPOT)</b></text>
+<text top="27" left="60" width="105" height="20" font="12"><b>Virginia Tech</b></text>
+<text top="147" left="162" width="87" height="14" font="9">65/73 (89.04 %)</text>
+<text top="147" left="60" width="86" height="14" font="8"><b>Response Rate:</b></text>
+<text top="1163" left="813" width="51" height="10" font="3">Page 9 of 10</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="221" left="60" width="335" height="12" font="0"><b>9 - The instructor related theories and concepts to practical issues.</b></text>
+<text top="242" left="60" width="55" height="12" font="0"><b>David Gray</b></text>
+<text top="263" left="60" width="87" height="12" font="1"><b>Response Option</b></text>
+<text top="263" left="280" width="99" height="12" font="1"><b>Weight Frequency</b></text>
+<text top="263" left="396" width="38" height="12" font="1"><b>Percent</b></text>
+<text top="263" left="456" width="97" height="12" font="1"><b>Percent Responses</b></text>
+<text top="263" left="696" width="33" height="12" font="1"><b>Means</b></text>
+<text top="282" left="60" width="82" height="12" font="2">Strongly disagree</text>
+<text top="282" left="291" width="13" height="12" font="2">(1)</text>
+<text top="282" left="349" width="6" height="12" font="2">0</text>
+<text top="282" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="300" left="60" width="42" height="12" font="2">Disagree</text>
+<text top="300" left="291" width="13" height="12" font="2">(2)</text>
+<text top="300" left="349" width="6" height="12" font="2">0</text>
+<text top="300" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="318" left="60" width="93" height="12" font="2">Somewhat disagree</text>
+<text top="318" left="291" width="13" height="12" font="2">(3)</text>
+<text top="318" left="349" width="6" height="12" font="2">0</text>
+<text top="318" left="401" width="30" height="12" font="2">0.00%</text>
+<text top="336" left="60" width="79" height="12" font="2">Somewhat agree</text>
+<text top="336" left="291" width="13" height="12" font="2">(4)</text>
+<text top="336" left="349" width="6" height="12" font="2">1</text>
+<text top="336" left="401" width="30" height="12" font="2">1.67%</text>
+<text top="355" left="60" width="28" height="12" font="2">Agree</text>
+<text top="355" left="291" width="13" height="12" font="2">(5)</text>
+<text top="355" left="346" width="12" height="12" font="2">18</text>
+<text top="355" left="398" width="36" height="12" font="2">30.00%</text>
+<text top="373" left="60" width="68" height="12" font="2">Strongly agree</text>
+<text top="373" left="291" width="13" height="12" font="2">(6)</text>
+<text top="373" left="346" width="12" height="12" font="2">41</text>
+<text top="373" left="398" width="36" height="12" font="2">68.33%</text>
+<text top="283" left="588" width="18" height="10" font="3">5.67</text>
+<text top="286" left="664" width="18" height="10" font="3">5.21</text>
+<text top="284" left="739" width="18" height="10" font="3">5.32</text>
+<text top="390" left="451" width="106" height="8" font="4"><b> 0           25           50           100 </b></text>
+<text top="390" left="584" width="30" height="8" font="5">Question</text>
+<text top="390" left="662" width="25" height="8" font="5">College</text>
+<text top="390" left="731" width="39" height="8" font="5">Department</text>
+<text top="403" left="93" width="65" height="10" font="6"><b>Response Rate</b></text>
+<text top="403" left="212" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="403" left="266" width="18" height="10" font="6"><b>STD</b></text>
+<text top="403" left="312" width="31" height="10" font="6"><b>Median</b></text>
+<text top="403" left="390" width="32" height="10" font="6"><b>College</b></text>
+<text top="403" left="474" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="403" left="527" width="18" height="10" font="6"><b>STD</b></text>
+<text top="403" left="571" width="31" height="10" font="6"><b>Median</b></text>
+<text top="403" left="638" width="50" height="10" font="6"><b>Department</b></text>
+<text top="403" left="728" width="23" height="10" font="6"><b>Mean</b></text>
+<text top="403" left="780" width="18" height="10" font="6"><b>STD</b></text>
+<text top="403" left="823" width="31" height="10" font="6"><b>Median</b></text>
+<text top="418" left="95" width="62" height="10" font="7">60/73 (82.19%)</text>
+<text top="418" left="214" width="18" height="10" font="3">5.67</text>
+<text top="418" left="266" width="18" height="10" font="7">0.51</text>
+<text top="418" left="319" width="18" height="10" font="7">6.00</text>
+<text top="418" left="394" width="25" height="10" font="7">22313</text>
+<text top="418" left="476" width="18" height="10" font="7">5.21</text>
+<text top="418" left="528" width="18" height="10" font="7">1.04</text>
+<text top="418" left="578" width="18" height="10" font="7">5.00</text>
+<text top="418" left="653" width="20" height="10" font="7">2385</text>
+<text top="418" left="731" width="18" height="10" font="7">5.32</text>
+<text top="418" left="781" width="18" height="10" font="7">0.88</text>
+<text top="418" left="830" width="18" height="10" font="7">6.00</text>
+<text top="124" left="60" width="59" height="14" font="8"><b>Instructor:</b></text>
+<text top="124" left="162" width="73" height="14" font="9">David Gray * </text>
+<text top="100" left="162" width="626" height="17" font="10">ENGE_1215_83949_201909: (83949) Founda ons of Engineering-ENGE_1215_83949_201909</text>
+<text top="100" left="60" width="52" height="17" font="11"><b>Course:</b></text>
+<text top="51" left="60" width="422" height="20" font="12"><b>Fall 2019 VT Student Percep ons of Teaching (SPOT)</b></text>
+<text top="27" left="60" width="105" height="20" font="12"><b>Virginia Tech</b></text>
+<text top="147" left="162" width="87" height="14" font="9">65/73 (89.04 %)</text>
+<text top="147" left="60" width="86" height="14" font="8"><b>Response Rate:</b></text>
+<text top="1163" left="808" width="56" height="10" font="3">Page 10 of 10</text>
+</page>
+</pdf2xml>

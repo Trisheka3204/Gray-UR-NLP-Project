@@ -1,0 +1,71 @@
+---
+title: "Loading files"
+author: "Katz et al."
+date: "9/29/2021"
+output: html_document
+---
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+#library(textreadr)
+library(readtext)
+
+
+
+```
+
+
+```{r}
+
+data_path <- 'G:/Shared drives/Working Group - NLP in Engineering Education Research/Fall 2021 Independent Study/data/sample docs/'
+setwd(data_path)
+list.files()
+
+```
+
+
+
+
+```{r}
+# load essays
+
+file_name_df <- tibble(file_name = list.files(data_path))
+
+my_files <- file_name_df$file_name
+
+temp_files <- lapply(paste0(data_path, my_files), readtext)
+
+names(temp_files) <- my_files
+
+temp_sol <- bind_rows(temp_files, .id = "column_label")
+
+
+
+temp_sol %>% write_csv("sample_text.csv")
+
+
+```
+
+
+
+```{r}
+test_str <- "!!! this is a test string!!!"
+```
+
+
+```{r}
+
+str_match(test_str, pattern = "\\!\\!\\!(.*)\\!\\!\\!")
+
+```
+
+
+
+
+
+
